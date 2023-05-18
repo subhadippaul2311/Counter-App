@@ -1,0 +1,30 @@
+.leftRight {
+  display: flex;
+  gap: 1rem;
+}
+.mainDiv {
+  height: 20rem;
+  width: 20rem;
+  border: 1px solid;
+  margin-left: 5rem;
+}
+
+.childDiv {
+  margin-left: 8rem;
+  margin-top: 4rem;
+}
+
+h1 {
+  margin-left: 4rem;
+}
+h2 {
+  margin-top: -0.4rem;
+}
+.up {
+  margin-left: 1.8rem;
+  margin-bottom: 2rem;
+}
+.down {
+  margin-left: 1.8rem;
+  margin-top: 0.7rem;
+}
